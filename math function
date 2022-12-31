@@ -1,0 +1,5 @@
+math.erf(x) calculates the error function of x, which is a mathematical function that describes the probability that a normally distributed random variable will be within a certain distance of the mean. 
+In the context of the Black-Scholes model, the error function is used to calculate the probability that the option will expire in the money.
+
+math.exp(x) calculates the exponential function of x, which is a mathematical function that describes the rate of change of a quantity over time. 
+In the context of the Black-Scholes model, the exponential function is used to calculate the present value of the option's exercise price.
